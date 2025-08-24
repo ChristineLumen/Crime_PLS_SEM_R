@@ -7,3 +7,7 @@ The dataset used for this analysis was downloaded from Statistical Horizons. It 
 Source: <a href="https://statisticalhorizons.com/resources/data-sets/"> Statistical Horizons</a>
 
 ### Tools
+
+## Running Model
+## Accuracy
+## Results
