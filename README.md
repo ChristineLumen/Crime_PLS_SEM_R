@@ -14,5 +14,10 @@ Source: <a href="https://statisticalhorizons.com/resources/data-sets/"> Statisti
   - `bootstrap_model()` – to test the significance of path coefficients
 
 ## Running Model
+For this analysis, I first defined the constructs and created composites for each. The process involves two main steps:
+
+1. **Measurement model (outer model):** Assesses the validity and reliability of the constructs (latent variables) and their indicators.  
+2. **Structural model (inner model):** Describes the relationships between the latent variables themselves.
+
 ### Accuracy
 ### Results
