@@ -17,7 +17,7 @@ Source: <a href="https://statisticalhorizons.com/resources/data-sets/"> Statisti
 Constructs were defined and composites created in two steps:
 
 1. **Measurement model** <i>(outer model)</i>: Checks validity and reliability of constructs.
-2. **Structural model** <i>(inner model)</i>: Examines relationships between constructs.
+2. **Structural model** <i>(inner model)</i>: Examines relationships between constructs.<br>
 Below is the proposed relationship between the constructs.
 
 ### Accuracy
