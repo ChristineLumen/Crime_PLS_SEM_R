@@ -1,4 +1,4 @@
-# 📰 SEM crime prediction in R
+# 📰 SEM current crime prediction in R
 ### Project Overview
 This project analyzes how demographics, education, and prior arrests influence the likelihood of committing a crime, using Structural Equation Modeling (SEMinR) in R.
 
@@ -39,5 +39,15 @@ After defining the constructs and their composites, the PLS-SEM model was estima
       - DEMOGRAPHIC, CURRENT_CRIME, and SENTENCING_OUTCOMES showed weak reliability or validity, probably require revising their indicators.<br>
 <br><img width="645" height="422" alt="Screenshot 2025-08-24 at 6 35 21 PM" src="https://github.com/user-attachments/assets/bac14100-9825-4b21-ba3d-4bac39964cb9" />
 
-
 ### Bootstrapping Results
+To test the significance of the relationships between constructs, the PLS-SEM model was bootstrapped using 1,000 resamples.
+1. Significant predictors of current crime<br>
+* PRIOR_ARRESTS → CURRENT_CRIME = 0.798 <i>(t ≈ 57, 95% CI: 0.770 – 0.825)</i> -- Strong and statistically significant.
+* DEMOGRAPHIC → CURRENT_CRIME = -0.130 <i>(t ≈ -6.8, 95% CI: -0.168 – -0.092)</i> --  Weak negative relationship but statistically significant.
+* EDUCATION → CURRENT_CRIME = 0.009 <i>(t ≈ 0.48, 95% CI: -0.032 – 0.042)</i> -- Effect is negligible and not significant.
+2. Confidence intervals confirm significance
+  Paths with 95% CI that do not include 0 are considered statistically significant, which means **PRIOR_ARRESTS** is the **main driver in the model**, supporting H1 and H2 for my synthetic dataset.
+<img width="769" height="441" alt="Screenshot 2025-08-25 at 12 23 55 AM" src="https://github.com/user-attachments/assets/953216d8-f7aa-4534-85f8-8d728d3b21a1" />
+
+
+
