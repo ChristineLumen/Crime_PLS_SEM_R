@@ -21,8 +21,6 @@ Constructs were defined and composites created in two steps:
 Below is the proposed relationship between the constructs.<br>
 <img width="385" height="298" alt="Screenshot 2025-08-24 at 5 55 02 PM" src="https://github.com/user-attachments/assets/3ba10648-b9b0-43f8-9ec8-42f2bc067875" />
 
-Estimating the model 
-Bootstrapping 
 ### Accuracy
 After defining the constructs and their composites, the PLS-SEM model was estimated using SEMinR.
 1. **Measurement model results**: Checked reliability and validity of constructs.
