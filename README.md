@@ -23,10 +23,12 @@ Below is the proposed relationship between the constructs.<br>
 
 ### Accuracy
 After defining the constructs and their composites, the PLS-SEM model was estimated using SEMinR.
-1. **Measurement model results**: Checked reliability and validity of constructs.
-<br>Only EDUCATION showed strong reliability and convergent validity.
-<br>PRIOR_ARRESTS was borderline.
-<br>DEMOGRAPHIC, CURRENT_CRIME, and SENTENCING_OUTCOMES showed weak reliability or validity, suggesting their indicators may need improvement.
+1.Reliability and validity of constructs.
+<br> Acceptable thresholds: α, ρC, ρA ≥ 0.7; AVE ≥ 0.5
+<br> Results:
+      * <br>EDUCATION showed strong reliability and convergent validity (α, ρC  > 0.7,AVE > 0.5)
+      * <br>PRIOR_ARRESTS has moderate reliability, but weak validity - borderline.
+      * <br>DEMOGRAPHIC, CURRENT_CRIME, and SENTENCING_OUTCOMES showed weak reliability or validity, probably require revising indicators.
 <br><img width="645" height="422" alt="Screenshot 2025-08-24 at 6 35 21 PM" src="https://github.com/user-attachments/assets/bac14100-9825-4b21-ba3d-4bac39964cb9" />
 
 
