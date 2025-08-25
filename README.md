@@ -27,7 +27,7 @@ Below is the proposed relationship between the constructs.<br>
 
 ### Path Coefficient Matrix (Initial Results)
 The matrix shows that EDUCATION and DEMOGRAPHIC have little to no effect on CURRENT_CRIME, while PRIOR_ARRESTS strongly increase the likelihood of CURRENT_CRIME (0.798). <br>Another surprising relationship is that PRIOR_ARRESTS strongly decrease SENTENCING_OUTCOMES (strong negative relationship), which is likely due to the artificially generated nature of the data.<br>
-<img width="532" height="217" alt="Screenshot 2025-08-24 at 11 55 12 PM" src="https://github.com/user-attachments/assets/9a95313a-276d-4b16-89c2-1d43a949db9c" />
+<img width="532" height="217" alt="Screenshot 2025-08-24 at 11 55 12 PM" src="https://github.com/user-attachments/assets/823184c9-dfec-4a9c-91e8-3d54af8be7cd" />
 
 ### Accuracy
 After defining the constructs and their composites, the PLS-SEM model was estimated using SEMinR.
