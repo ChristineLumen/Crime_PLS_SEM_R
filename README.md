@@ -1,4 +1,4 @@
-# 📰 SEM analysis crime pathways in R
+# 📰 SEM crime prediction in R
 ### Project Overview
 This project analyzes how demographics, education, and prior arrests influence the likelihood of committing a crime, using Structural Equation Modeling (SEMinR) in R.
 
