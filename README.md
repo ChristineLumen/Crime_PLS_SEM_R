@@ -17,7 +17,7 @@ Source: <a href="https://statisticalhorizons.com/resources/data-sets/"> Statisti
 H1: Demographics, education, and prior arrests significantly predict current criminal behavior.<br>
 H2: Prior arrests significantly predict sentencing outcomes.<br>
 
-## Model
+### Model
 Constructs were defined and composites created in two steps:
 
 1. **Measurement model** <i>(outer model)</i>: Checks validity and reliability of constructs.
