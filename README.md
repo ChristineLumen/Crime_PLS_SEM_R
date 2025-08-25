@@ -49,5 +49,8 @@ To test the significance of the relationships between constructs, the PLS-SEM mo
   Paths with 95% CI that do not include 0 are considered statistically significant, which means **PRIOR_ARRESTS** is the **main driver in the model**, supporting H1 and H2 for my synthetic dataset.
 <img width="769" height="441" alt="Screenshot 2025-08-25 at 12 23 55 AM" src="https://github.com/user-attachments/assets/953216d8-f7aa-4534-85f8-8d728d3b21a1" />
 
-
-
+## Findings
+- PRIOR_ARRESTS strongly increase the likelihood of CURRENT_CRIME (β = 0.798)
+- DEMOGRAPHIC slightly reduce CURRENT_CRIME (β = -0.129)
+- EDUCATION has no measurable effect
+- PRIOR_ARRESTS strongly negatively influence SENTENCING_OUTCOMES (β = -0.767), likely due to synthetic data
