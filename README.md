@@ -11,7 +11,7 @@ Source: <a href="https://statisticalhorizons.com/resources/data-sets/"> Statisti
   - `library(seminr)` – for building PLS-SEM model
   - `library(haven)` – for importing datasets (I had .dat file)
   - `estimate_pls()` – to estimate the PLS model
-  - `bootstrap_model()` – to test the significance of path coefficients
+  - `bootstrap_model()` – to test the significance of path coefficients 
 
 ## Hypotheses
 H1: Demographics, education, and prior arrests significantly predict current criminal behavior.<br>
