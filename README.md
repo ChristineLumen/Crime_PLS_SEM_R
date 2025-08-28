@@ -1,5 +1,5 @@
 # 📰 SEM current crime prediction in R
-### Project Overview
+### Project Overview 
 This project analyzes how demographics, education, and prior arrests influence  current criminal behavior and sentencing outcomes, based on a synthetic dataset. Structural Equation Modeling (SEMinR) in R was used for the analysis. 
 
 ### Data Source
