@@ -9,7 +9,7 @@ Source: <a href="https://statisticalhorizons.com/resources/data-sets/"> Statisti
 ### Tools
 **R and RStudio**
   - `library(seminr)` – for building PLS-SEM model 
-  - `library(haven)` – for importing datasets (I had .dat file)
+  - `library(haven)` – for importing datasets (I had .dat file) 
   - `estimate_pls()` – to estimate the PLS model
   - `bootstrap_model()` – to test the significance of path coefficients
 
